@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+from gdeploy_config_generator.generator import main
+
+main()

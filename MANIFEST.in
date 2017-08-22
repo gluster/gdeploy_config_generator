@@ -1,0 +1,1 @@
+recursive-include gdeploy_config_generator/static *.conf
