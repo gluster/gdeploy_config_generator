@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# texteditor metadata
+.vscode
+tags
