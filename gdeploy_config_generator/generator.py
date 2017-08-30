@@ -9,8 +9,8 @@ from jinja2 import Environment, FileSystemLoader
 
 
 known_vol_types = [
-    'Replica with dedicated arbiter configuration',
-    'Replica with chained arbiter configuration'
+    'replica-dedicated-arbiter',
+    'replica-chained-arbiter'
 ]
 
 pkg_resources = pkg_resources.get_distribution('gdeploy_config_generator')
